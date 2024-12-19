@@ -13,3 +13,6 @@ This repository contains all the necessary files for the "Inventory System and I
 - **Objective**: To model the dynamics of infectious diseases within a population.
 - **Methodology**: Implements both the Forward Euler and Runge-Kutta methods to solve the differential equations of the SIR model.
 
+## Contributors
+- **Ilaria Gallo** 
+- **Remo Irtuso** 
